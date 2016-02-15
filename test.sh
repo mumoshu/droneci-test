@@ -1,3 +1,3 @@
-echo "Exiting with status: 1"
+echo "Exiting with status: "
 echo test
-exit 1
+exit 0

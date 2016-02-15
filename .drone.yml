@@ -1,4 +1,4 @@
 build:
   image: golang
   commands:
-    - ./test
+    - ./test.sh
